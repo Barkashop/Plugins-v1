@@ -1,0 +1,5 @@
+# Default balance a wallet will start off with
+default: 10.0
+
+# Config Version !!! DO NOT CHANGE !!!
+config-version: 1.2

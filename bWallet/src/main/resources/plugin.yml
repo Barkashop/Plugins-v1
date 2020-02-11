@@ -1,0 +1,5 @@
+name: bWallet
+version: 1.0
+author: Offset
+main: gamer.bwallet.BWallet
+api-version: 1.13

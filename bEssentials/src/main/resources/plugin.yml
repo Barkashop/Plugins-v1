@@ -1,0 +1,5 @@
+name: bEssentials
+version: 1.0
+author: Offset
+main: gamer.bessentials.BEssentials
+api-version: 1.13

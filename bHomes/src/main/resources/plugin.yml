@@ -1,0 +1,17 @@
+name: bHomes
+version: 1.0
+author: Offset
+main: gamer.barkahomes.BHomes
+api-version: 1.13
+commands:
+  home:
+    description: Teleport to a home
+  homes:
+    description: List your homes
+  sethome:
+    description: Define where a home is
+  deletehome:
+    aliases:
+      - delhome
+      - dhome
+    description: Delete a home

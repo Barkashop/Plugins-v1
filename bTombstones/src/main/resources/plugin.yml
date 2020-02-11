@@ -1,0 +1,5 @@
+name: Tombstones
+version: 1.0
+author: Offset
+main: gamer.tombstones
+api-version: 1.13
